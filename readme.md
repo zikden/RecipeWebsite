@@ -2,12 +2,12 @@
 
 ### Для более легкой проверки загрузил бд 
 
-Админ:
-: login: admin
-: password: admin
+__Админ:__<br/>
+login: admin<br/>
+password: admin<br/>
 
-Пользователь:
-: login: user
-: password: 12345678Aa!
+__Пользователь:__<br/>
+login: user<br/>
+password: 12345678Aa!<br/>
 ***
 ##### Сделал чуть больше, для "возможного будущего расширения"
